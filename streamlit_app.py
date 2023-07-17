@@ -87,8 +87,8 @@ def main():
     agent = setup_chain()
 
     # Set Streamlit app title and subheader
-    st.title("MindMend")
-    st.subheader("A Mental Wellness Support Chatbot")
+    st.title("AI-Powered Job Tool")
+    st.subheader("An AI-Powered Support Job Tool Chatbot")
 
     # User input text field
     user_input = st.text_input("Ask me anything! I'm here to help:")
@@ -100,7 +100,7 @@ def main():
 
         # Display bot avatar and chatbot response
         display_avatar()
-        st.markdown(f"**MindMend:** {response}")
+        st.markdown(f"**Response:** {response}")
 
 
 # Run the main function if the script is executed directly
