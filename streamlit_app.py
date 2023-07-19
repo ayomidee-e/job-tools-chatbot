@@ -11,6 +11,7 @@ from langchain.vectorstores import DocArrayInMemorySearch
 _ = load_dotenv(find_dotenv())  # read local .env file
 openai.api_key = os.environ['OPENAI_API_KEY']
 
+
 def setup_chain():
     # Define file path and template
     file = 'job_skill.csv'
@@ -61,16 +62,14 @@ def setup_chain():
 
 
 # Define main function
-# Define main function
 def main():
     agent = setup_chain()
 
     # Set Streamlit app title and subheader
-    st.title("AI-Powered Job Tool")
-    st.subheader("An AI-Powered Support Job Tool Chatbot")
+    st.title("An AI-Powered Support Job Tool Chatbot")
 
     # User input text field
-    user_input = st.text_input("Ask me anything! I'm here to help:")
+    user_input = st.text_area("Ask me anything! I'm here to help:", height=200)
 
     # Button to trigger chatbot response
     if st.button("Enter"):
