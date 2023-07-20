@@ -1,5 +1,5 @@
-job_post,company,exp_required,job_location,job_description,required_skills
-Sr Business Analyst,ServiceNow,3-7 Yrs,Hyderabad/Secunderabad,Willingness to assist wherever help is needed and is proactive in looking for ways to h...,"Microsoft Excel
+job_post,company,job_location,required_skills
+Sr Business Analyst,ServiceNow,Hyderabad/Secunderabad,"Microsoft Excel
 PowerPoint
 Process audit
 Data analysis
@@ -7,7 +7,7 @@ Excel
 Sales
 Business Analyst
 Data Processor"
-Embedded Software Engineer,Cyient,3-6 Yrs,Bangalore/Bengaluru,Job Description: Very strong experience as a SW programmer in Embedded C. Good understa...,"GSM
+Embedded Software Engineer,Cyient,Bangalore/Bengaluru,"GSM
 Wireless
 Embedded C
 Linux
@@ -15,7 +15,7 @@ ISO
 UML
 Testing tools
 Debugging"
-Senior Data Analyst,Bewakoof.com,2-4 Yrs,Mumbai,Senior Data Analyst,"Accessories
+Senior Data Analyst,Bewakoof.com,Mumbai,"Accessories
 Data analysis
 Google Analytics
 Web analytics
@@ -23,7 +23,7 @@ Machine learning
 Predictive modeling
 Data Analyst
 Reporting tools"
-Senior Software Engineer ( Big Data ),Orange Business Services,3-7 Yrs,Gurgaon/Gurugram,"Experience with at least one data cloud service provider, Azure, AWS or GCPExperience h...","Java
+Senior Software Engineer ( Big Data ),Orange Business Services,Gurgaon/Gurugram,"Java
 Big Data
 Spark
 Unix
@@ -31,7 +31,7 @@ Hadoop
 Kafka
 SQL
 Hive"
-Digital Engineering Lead Consultant,NTT DATA,6-9 Yrs,Bangalore/Bengaluru,Responsibilities: Design and implement solutions leveraging AEM Sites Develop digital c...,"Web analytics
+Digital Engineering Lead Consultant,NTT DATA,Bangalore/Bengaluru,"Web analytics
 digital asset management
 devops
 Cloud
@@ -39,7 +39,7 @@ Javascript
 CMS
 Agile
 Software development life cycle"
-Business Development Manager,RxLogix Corporation,4-9 Yrs,Noida,Preferably an established network in the Drug Safety / Pharmacovigilance domain Minimum...,"RxLogix
+Business Development Manager,RxLogix Corporation,Noida,"RxLogix
 Relationship management
 Sales
 Networking
@@ -47,7 +47,7 @@ Software sales
 Life sciences
 Sales process
 Pharmacovigilance"
-Electrical Engineer,KD Group of Industries,2-3 Yrs,Gurgaon,"1) Strengthen sales through relationship management, technical sales support and collab...","sales
+Electrical Engineer,KD Group of Industries,Gurgaon,"sales
 Technical Support
 relationship management
 Client Management
@@ -55,7 +55,7 @@ Technical sales
 Database
 Representative
 Japanese"
-IT Business Analyst - R&D IT PCA DDM,NXP Semiconductors,4-8 Yrs,"Noida, Bangalore/Bengaluru","Must possess excellent English communication skills, both oral and written Must have Ex...","Unix
+IT Business Analyst - R&D IT PCA DDM,NXP Semiconductors,"Noida, Bangalore/Bengaluru","Unix
 Computer science
 Automation
 Linux
@@ -63,7 +63,7 @@ Data management
 Business Analyst
 Configuration management
 Analytical"
-Unix Shellscripting Developer - Thirdware ( Tech Mahindra),Thirdware Solution Limited,4-9 Yrs,Chennai,"Thirdware is acquired by TechM, Kindly follow the link to have an insight: https://www....","Unix
+Unix Shellscripting Developer - Thirdware ( Tech Mahindra),Thirdware Solution Limited,Chennai,"Unix
 Bash Scripting
 Unix Shell Scripting
 Linux Shell Scripting
@@ -71,7 +71,7 @@ maven
 CI / CD
 gradle
 analytical"
-Network Infrastructure Advanced Application Engineer,Accenture,6-8 Yrs,Pune,Project Role : Advanced Application Engineer Project Role Description : Utilize modular...,"WAN
+Network Infrastructure Advanced Application Engineer,Accenture,Pune,"WAN
 Agile
 Application development
 CCNA
@@ -79,7 +79,7 @@ Troubleshooting
 VRF Lite
 OSFP
 Written"
-Professional 2 Security Compliance,DXC Technology,8-12 Yrs,Bangalore/Bengaluru,"Essential Job Functions Administers access control processes which may include badging,...","Computer science
+Professional 2 Security Compliance,DXC Technology,Bangalore/Bengaluru,"Computer science
 Access control
 Administration
 Compliance
@@ -87,7 +87,7 @@ Information security
 Analytical
 Security systems
 Management"
-Team Lead Process Excellence,MattsenKumar Services Pvt. Ltd,4-6 Yrs,Gurgaon/Gurugram,Green belt six sigma would be preferred (trained or certified) Experience as a Quality ...,"Six Sigma Green Belt
+Team Lead Process Excellence,MattsenKumar Services Pvt. Ltd,Gurgaon/Gurugram,"Six Sigma Green Belt
 BPO
 process improvement
 process excellence
@@ -95,7 +95,7 @@ Client servicing
 quality improvement
 Data Analysis
 Business Excellence"
-Senior Software Engineer,Wells Fargo,7-12 Yrs,Serilingampalle,"About the RoleOur goal is to deliver rapid, value-driven customer solutions for Sales p...","Microsoft Dynamics CRM
+Senior Software Engineer,Wells Fargo,Serilingampalle,"Microsoft Dynamics CRM
 IT Skills
 DevOps
 HTML
@@ -103,10 +103,10 @@ Javascript
 .Net
 Azure
 Dynamics 365"
-Jr. Php Developer,Sifars,0-2 Yrs,India,Job Description Jr. Php Developer We are looking for individuals who have at least a ba...,"IT Skills
+Jr. Php Developer,Sifars,India,"IT Skills
 PHP
 Manager Technology"
-Software Engineer,IHS Markit,2-5 Yrs,Gurgaon/Gurugram,We are looking for a Sr. Salesforce Developer. The successful candidate will be as an i...,"Change management
+Software Engineer,IHS Markit,Gurgaon/Gurugram,"Change management
 Manager Quality Assurance
 SAP
 Contract management
@@ -114,10 +114,10 @@ Consulting
 Javascript
 HTML
 Analytics"
-Data Analyst,Exavalu Inc.,4-9 Yrs,United States (USA),Bachelors Degree and 3 years of previous related experience in data management Join our...,"Data Quality
+Data Analyst,Exavalu Inc.,United States (USA),"Data Quality
 Data Analysis
 Data Governance"
-Multimedia & Graphic Design Engineer,Quest Informatics Private Limited,1-2 Yrs,Bengaluru,Be flexible to make changes as required by the client or individual project objectives ...,"Corel Draw
+Multimedia & Graphic Design Engineer,Quest Informatics Private Limited,Bengaluru,"Corel Draw
 Adobe Illustration
 CSS
 communication
@@ -125,7 +125,7 @@ Adobe Frame Maker
 Java
 Adobe after Effects
 Microsoft suite"
-Pega RPA Developers,AgreeYa,4-9 Yrs,Noida,"Good understating of PRPC flows, interpretation of flow shapes, SLAs, tickets, interpre...","Studio
+Pega RPA Developers,AgreeYa,Noida,"Studio
 Pega
 Pega RPA
 Pega Robotics
@@ -133,19 +133,19 @@ IT Skills
 RPA
 Business process
 PRPC"
-Immediate Job Opening _ Sr. Software Engineer _ Bangalore,Makonis software Solutions Private Limited,8-13 Yrs,Bangalore/Bengaluru,Required Skills:Five (5) or more years experience in Core Java Programming/Designing.Mi...,"cloud
+Immediate Job Opening _ Sr. Software Engineer _ Bangalore,Makonis software Solutions Private Limited,Bangalore/Bengaluru,"cloud
 spring
 java
 Multithreading
 IT Skills
 Software Development
 Testing"
-Virtusa Hiring For Java Developer (Java with SpringBoot) -,Virtusa,2-7 Yrs,"Hyderabad/Secunderabad, Pune, Gurgaon/Gurugram, Chennai, Bangalore/Bengaluru, Mumbai (All Areas)",2 years to 9 years of experience required as a Java Developer2+ years of experience in ...,"Java
+Virtusa Hiring For Java Developer (Java with SpringBoot) -,Virtusa,"Hyderabad/Secunderabad, Pune, Gurgaon/Gurugram, Chennai, Bangalore/Bengaluru, Mumbai (All Areas)","Java
 Spring Boot
 SpringBoot
 Rest
 API"
-Senior Software Engineer,NUANCE INDIA PVT LTD,5-7 Yrs,Bangalore/Bengaluru,The candidate must be a team have proven experience working in both team and multi-team...,"Speech Recognition
+Senior Software Engineer,NUANCE INDIA PVT LTD,Bangalore/Bengaluru,"Speech Recognition
 NMS
 Microsoft Azure
 WireShark
@@ -153,7 +153,7 @@ Ios / Android
 IT Skills
 Software Development
 Artificial Intelligence"
-Junior Software Developer (PHP/iPhone/Testing/Android ),CodeFire Technologies Pvt. Ltd.,2-7 Yrs,Noida,Candidate Profile: -Candidate should be B Tech/ B E/ MCA(2017 Passout) with good academ...,"C++
+Junior Software Developer (PHP/iPhone/Testing/Android ),CodeFire Technologies Pvt. Ltd.,Noida,"C++
 analytical
 Mysql
 Java
@@ -161,7 +161,7 @@ OOps
 Web Technologies
 Testing
 Android"
-Associate II Software Engineer,IHS Markit,5-7 Yrs,Gurgaon/Gurugram,Position summary We are looking for a developer to join Dev team to design and implemen...,"JMS
+Associate II Software Engineer,IHS Markit,Gurgaon/Gurugram,"JMS
 Tomcat
 JBoss
 XML
@@ -169,7 +169,7 @@ Weblogic
 TIBCO
 JDBC
 J2Ee"
-RF Engineer - RF Engineer,AgreeYa,7-10 Yrs,Pune,Perform network design/optimization activities under technical supervision. Responsibil...,"IPv6
+RF Engineer - RF Engineer,AgreeYa,Pune,"IPv6
 Netbrain
 MX
 IPv4
@@ -177,7 +177,7 @@ Ansible
 ASR9K
 Nexus
 troubleshooting"
-Senior Software Developer-.NetCore & MVC (Early Joiners Required),Broadway Infotech Pvt. Ltd.,6-11 Yrs,Remote,We are seeking experienced .NET Developers.Skills Must have6 to 12 years of experience ...,".Net Core
+Senior Software Developer-.NetCore & MVC (Early Joiners Required),Broadway Infotech Pvt. Ltd.,Remote,".Net Core
 Web Api
 LINQ
 JQuery
@@ -185,14 +185,14 @@ MVC
 RESTful APIs
 Web API's
 MVC Architecture"
-Team Leaders Operations,Money Multiplier,3-6 Yrs,Delhi,Team Leaders Operations,"Help Desk
+Team Leaders Operations,Money Multiplier,Delhi,"Help Desk
 Customer Service
 data analysis
 customer relationship
 access controls
 Telephony support
 Information"
-Module Lead Software Engineer,Impetus,3-6 Yrs,"Noida, Indore, Bangalore/Bengaluru","Should be good in mathematics, problem solving skills Experience in usage of design pat...","Microservices architecture
+Module Lead Software Engineer,Impetus,"Noida, Indore, Bangalore/Bengaluru","Microservices architecture
 Azure
 AWS
 Core JAVA
@@ -200,7 +200,7 @@ GCP
 Linux
 design patterns
 Multi - threading"
-DevOps Application Lead,Accenture,6-8 Yrs,Gurgaon/Gurugram,"Educational Qualification : Minimum 15 years of full time education, Qualified in Compu...","DNS
+DevOps Application Lead,Accenture,Gurgaon/Gurugram,"DNS
 HTTP
 JSON
 CRM
@@ -208,7 +208,7 @@ Python
 Communication
 S
 Bitbucket"
-System Engineer,BOLD Technology Systems,3-8 Yrs,Noida,"Experience in documenting processes, escalation management, trouble ticket initiation a...","Windows Server Administration
+System Engineer,BOLD Technology Systems,Noida,"Windows Server Administration
 DNS
 DHCP
 Active Directory
@@ -216,12 +216,12 @@ LAN Networking
 WAN
 Active Directory Administration
 LAN"
-Data Annotation Manager (AI/ML) | Work From Office (Delhi - Pitampura),Suntec Web Services Private Limited,3-6 Yrs,"New Delhi(Rani Bagh), Delhi / NCR",The candidate should be able to understand the business use-case and own the data annot...,"Data Annotation
+Data Annotation Manager (AI/ML) | Work From Office (Delhi - Pitampura),Suntec Web Services Private Limited,"New Delhi(Rani Bagh), Delhi / NCR","Data Annotation
 analytical
 IT Skills
 Machine Learning
 Artificial Intelligence"
-Senior Technical Lead (Data Engineer),Infostretch solutions Pvt. Ltd.,5-6 Yrs,Pune,Resource requirement: 5-6 Years of hands-on experience on defined technologies Willing ...,"Lambda
+Senior Technical Lead (Data Engineer),Infostretch solutions Pvt. Ltd.,Pune,"Lambda
 Charles
 Android APK
 communication
@@ -229,7 +229,7 @@ iOS IPA
 Java
 C#
 Fiddler"
-Business Development Executive,BarrierBreak Solutions Pvt Ltd,0-2 Yrs,Mumbai (All Areas),Ability to put together effective testing strategies and a good knowledge of MS Office ...,"Lead Generation
+Business Development Executive,BarrierBreak Solutions Pvt Ltd,Mumbai (All Areas),"Lead Generation
 Business Development
 Word
 MS Office
@@ -237,7 +237,7 @@ written
 Excel
 PPT
 IT Skills"
-Asst. Manager Crm,KD Group of Industries,2-4 Yrs,Gurgaon,He Has to Knowledge of Crm also Basic Knowledge of Sales Department and He Has also Own...,"Help Desk
+Asst. Manager Crm,KD Group of Industries,Gurgaon,"Help Desk
 Customer Service
 data analysis
 customer relationship
