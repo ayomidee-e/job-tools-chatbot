@@ -66,10 +66,10 @@ def main():
     agent = setup_chain()
 
     # Set Streamlit app title and subheader
-    st.title("AI-Powered Job Tool Chatbot")
+    st.title("AI-Powered Job Tool")
 
     # User input text field
-    user_input = st.text_input("Ask me anything! I'm here to help:", height=100)
+    user_input = st.text_input("Ask me anything! I'm here to help:")
 
     # Button to trigger chatbot response
     if st.button("Enter"):
