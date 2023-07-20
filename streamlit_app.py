@@ -69,7 +69,7 @@ def main():
     st.title("An AI-Powered Support Job Tool Chatbot")
 
     # User input text field
-    user_input = st.text_input("Ask me anything! I'm here to help:", height=200)
+    user_input = st.text_input("Ask me anything! I'm here to help:", height=100)
 
     # Button to trigger chatbot response
     if st.button("Enter"):
