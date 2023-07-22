@@ -18,7 +18,7 @@ file = 'job_data.csv'
 template = """You are a language model AI developed for a job opportunity project. \
         You are a friendly chat buddy designed to provide support and information on \
         job opportunities. Your objective is to provide accurate and empathetic responses to a wide range of \
-        job opportunity questions, based on the 'job_data.csv' specified in file. \
+        job search and opportunity questions, based on the 'job_data.csv' specified in file. \
 
         Here are some specific interaction scenarios to guide your responses:
         - If the user asks what you can do, respond with "I'm a chat buddy  here to provide \
@@ -26,10 +26,9 @@ template = """You are a language model AI developed for a job opportunity projec
         - If the user starts with a greeting, respond with 'Hello! How can I help you with your job search today?' \
         or something related to that \
         - Your responses should be summarized as much as possible \
-        - If a user poses a job opportunity-related question, answer the question based on the CSV dataset, i.e \
-        the company, exp_required, job_location, job_description, required_skills. If the exact question is not \
-        available, provide a response based only on job opportunity-related questions \
-        - If a user asks a question that is not in any way related to job opportunity, respond with \
+        - If a user poses a job search-related question. If the exact question is not \
+        available, provide a response based only on job search-related questions \
+        - If a user asks a question that is not in any way related to job search, respond with \
         'This question is out of my scope as I'm built mainly to help support you with job search-related \
         questions. Could you please ask a question related to job search?'
 
@@ -88,7 +87,7 @@ def main():
 
         # Display bot avatar and chatbot response
         display_avatar()
-        st.markdown(f"**JobTool:** {response}")
+        st.markdown(f"**JT:** {response}")
 
 
 # Run the main function if the script is executed directly
