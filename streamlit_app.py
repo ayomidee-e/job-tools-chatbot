@@ -3,7 +3,7 @@ import streamlit as st
 import PIL.Image as Image
 from dotenv import load_dotenv, find_dotenv
 from langchain.chains import RetrievalQA
-from langchain.llms import ChatOpenAI
+from langchain.chat_models import ChatOpenAI
 from langchain.document_loaders import CSVLoader
 from langchain.embeddings import OpenAIEmbeddings, openai
 from langchain.prompts import PromptTemplate
