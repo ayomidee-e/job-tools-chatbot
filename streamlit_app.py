@@ -3,7 +3,7 @@ import streamlit as st
 import PIL.Image as Image
 from dotenv import load_dotenv, find_dotenv
 from langchain.chains import RetrievalQA
-from langchain.llms import OpenAI
+from langchain.llms import ChatOpenAI
 from langchain.document_loaders import CSVLoader
 from langchain.embeddings import OpenAIEmbeddings, openai
 from langchain.prompts import PromptTemplate
@@ -48,8 +48,7 @@ retriever = db.as_retriever()
 chain_type_kwargs = {"prompt": prompt}
 
 # Initialize ChatOpenAI
-llm = OpenAI(
-    model_name="text-davinci-003",
+llm = ChatOpenAI(
     temperature=0
 )
 
